@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+prophet
+matplotlib
+openpyxl
